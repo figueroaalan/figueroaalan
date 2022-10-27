@@ -4,17 +4,4 @@
   </h3>
 </div>
 
----
 
-### Sobre mi :
-
-<div align="left">
-<h3>:hammer: Lenguages y Herramientas:</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-
-  </div>
-
-
-
-</div>
