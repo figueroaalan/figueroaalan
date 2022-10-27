@@ -3,3 +3,9 @@
   <h3 align="center">Soy estudiante de programación, cuento con un vasto conocimiento en sistemas informáticos y con una gran capacidad para trabajar en grupo.
   </h3>
 </div>
+
+---
+
+### Sobre mi :
+
+-
